@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/c559a645255230adbd72489378b24bd76b8d002e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_ab373eee3f02fb23896753c451f5df26dfdc3c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/4cf7783dbbb670203d285d3d20c3c6ce07d2752b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_48102ecc874da3ac942160e5e9b1f10e34866b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/c999790d915cc2cbec3ded9957ce08a3cbda61a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_bd89ff64aff44d63a8cf4e7942e2a066ee0674ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/be09bdb30d90a8cae889df4ccfc2d4aae80a274c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_d9e5913873973dfbec59bf2711bd8e72872765eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/32504e43ec7c9febaf826890d48b63ed928287e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_16ccca463192319530113d3b3b89d6835fb02e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/1614c801db2a0c87892f30c9cca1683cb293805d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_bed0eca431aa97d4e29ae8f218917501b7a5d0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/78c05fc933d02d641921fe4a8ea79a63567edd7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_76af1efcf024eb2af1db7572094a77468f0d053b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/bb9ac0e40341865def389f6d98900e2ec0036b09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_8e6a2804efcb084e768bddd1aab8bbf8f223e920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/greenhat/storage/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_f74a6ea0a8b4e41a67b05b4aaae1cc0fc0a0ab00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/f0645d8224ce33202b20ab0736a62a57226a73e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_1c9ccfa4ce8938c73a4fb7f5b8f2ac9372e2499c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/greenhat/storage/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0207125affa273f33535797e8e3f0af03ec2e710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/90579f4dfb56740b763b7e6cc561893a1899c1e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_9fe3cc69882c854ec93c46d820c61aec603fd066.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f192bba81b7dbcf617556189c0b3ab7d32b35c5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/d36da2912950d4faf51a02b1decc95087067638d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_c4bc22421716596dff018119b5219ddeae540c76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b1b530064fa3ae651cd233e8c7279f5abd5e28d">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8833468387aabb0cb120d83410c6664c74a2af47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/eb0e3070eb9f73fbae27afb6880701ec067ee177/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_c8fc228cc3e00da9d9ca53f4748d9bd8749bea64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/greenhat/.android/build-cache/06b47e33d4d749b9c1a2a26f3e6e84152dd0c14d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/media/greenhat/storage/AndroidStudioProjects/Citylog/app/build/intermediates/pre-dexed/debug/classes_a13f2f5c3f3b44a44ce09431162b1c2e7720fda7.jar" />
+    </item>
+
+</items>
